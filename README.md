@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fikresilase
-- 👀 I’m interested in Scine,Technology,philosophy,psychology and Business
-- 🌱 I’m currently learning Electrical and Computer Engineering at Addis Ababa Scince and Technology University
-- 💞️ I’m looking to collaborate on ...
+- 👀 Electrical Engineer, Software Developer and Aspiring Educator
+- 🌱 I’m currently learning Electrical and Computer Engineering at Addis Ababa Science and Technology University and doing my own software and Teaching projects
+- 💞️ I’m looking to collaborate on projects about education.
 - 📫 How to reach me ...
 
 <!---
