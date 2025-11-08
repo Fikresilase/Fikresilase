@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Outvest and Climatry**
  
- 🌱 I’m currently learning **Machine learning and Backend(Node.js)**
+ 🌱 I’m currently learning **AI and Backend with FastAPI**
 
-💬 Ask me about **Web Development, Image compression, machine learning... or anything [here](https://github.com/Fikresilase/fikresilase/issues)**
+💬 Ask me about **Applied AI, Digital signal Processing, machine learning or Full stack... or anything [here](https://github.com/Fikresilase/fikresilase/issues)**
 
  </div>
  
@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/fikresilase" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp0.github.io" target="_blank">
+  <a href="https://fikresilase.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
